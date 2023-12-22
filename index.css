@@ -1,0 +1,79 @@
+body {
+  background-color: beige;
+  margin-top: -25px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#olaNome {
+  border: solid darkgrey;
+  border-radius: 0 0 50px 50px;
+  padding-left: 20px;
+  background-color: aliceblue;
+  color: dimgrey;
+  font-family: "Courier New", Courier, monospaces;
+}
+#bola {
+  width: 130px;
+  margin-left: 720px;
+  border-radius: 70px;
+  border: solid darkgrey 4px;
+}
+#titulo {
+  color: dimgrey;
+  text-align: center;
+  border: solid darkgrey;
+  border-radius: 50px;
+  background-color: aliceblue;
+  font-family: "Courier New", Courier, monospace;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#nomear {
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  background-color: aliceblue;
+  border: solid darkgrey;
+  border-radius: 50px;
+  color: black;
+  margin-left: 5px;
+  padding-left: 5px;
+}
+#botaoNome {
+  width: 80px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 10px 10px 20px 20px;
+  border: solid darkgrey 2px;
+  background-color: aliceblue;
+  color: black;
+}
+#total {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+#confra {
+  width: 350px;
+  height: 360px;
+  margin-left: 50px;
+  background-color: aliceblue;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  border: solid gray 3px;
+  border-radius: 20px 60px 40px 80px;
+  color: blue;
+}
+#CorConfra {
+  color: red;
+}
+.traço {
+  color: black;
+}
+#funcionamento {
+  font-size: 30px;
+  color: darkred;
+  font-family: serif;
+}

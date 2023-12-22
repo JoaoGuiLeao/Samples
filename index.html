@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Perfil de Amostras</title>
+
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <h1 id="olaNome"></h1>
+
+    <img src="img/bola.jpg" id="bola" />
+
+    <h1 id="titulo">Amostras</h1>
+
+    <input id="nomear" placeholder="Insira Seu Nome" />
+
+    <button onclick="nome()" id="botaoNome">Enviar</button>
+
+    <p id="total"></p>
+
+    <button id="confra" onclick="ButtonConfra()" class="amostras">
+      <img src="img/logo.png" width="320px" /><span id="CorConfra">CONFRA</span
+      ><span class="traço">-</span>CSF
+    </button>
+
+    <p id="funcionamento" onclick="fechar()"></p>
+
+    <script src="code.js"></script>
+  </body>
+</html>
