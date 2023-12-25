@@ -9,6 +9,7 @@ body {
   border: solid darkgrey;
   border-radius: 0 0 50px 50px;
   padding-left: 20px;
+  width: 99%;
   background-color: aliceblue;
   color: dimgrey;
   font-family: "Courier New", Courier, monospaces;
@@ -28,6 +29,7 @@ body {
   font-family: "Courier New", Courier, monospace;
   margin-left: 10px;
   margin-right: 10px;
+  width: 95%;
 }
 #nomear {
   width: 200px;
