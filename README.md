@@ -6,14 +6,14 @@
 
 ---
 
-## Skills Used:
+### Effect samples for instagram
 
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark">
+[**Samples Site**](https://joaoguileao.github.io/Amostras/)
 
 ---
 
-#### Effect samples for instagram
+## Skills Used:
 
-[Samples Site](https://joaoguileao.github.io/Amostras/)
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=154c79&height=120&section=footer"/>
