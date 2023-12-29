@@ -8,7 +8,7 @@
 
 ### Effect samples for instagram
 
-[**Samples Site**](https://joaoguileao.github.io/Amostras/)
+[**Samples Site**](https://joaoguileao.github.io/Samples/)
 
 ---
 
