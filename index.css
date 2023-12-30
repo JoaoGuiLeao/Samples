@@ -30,18 +30,6 @@ body {
   margin-left: 10px;
   margin-right: 10px;
 }
-.logoLeft {
-  width: 33px;
-  position: absolute;
-  top: 230px;
-  left: 15px;
-}
-.logoRight {
-  width: 33px;
-  position: absolute;
-  top: 230px;
-  right: 15px;
-}
 #nomear {
   width: 200px;
   height: 30px;
