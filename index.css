@@ -14,12 +14,9 @@ body {
   color: dimgrey;
   font-family: "Courier New", Courier, monospaces;
 }
-#center_img {
-  display: flex;
-  justify-content: center;
-}
 #bola {
   width: 130px;
+  margin-left: 720px;
   border-radius: 70px;
   border: solid darkgrey 4px;
 }
@@ -62,7 +59,7 @@ body {
 #confra {
   width: 350px;
   height: 360px;
-  margin-left: 70px;
+  margin-left: 50px;
   background-color: aliceblue;
   font-size: 25px;
   font-family: "Times New Roman", Times, serif;
